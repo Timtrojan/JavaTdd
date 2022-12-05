@@ -1,4 +1,4 @@
-package tdd;
+package tdd.AutomaticBike;
 
 public class AutomaticBike {
     private boolean switchState;

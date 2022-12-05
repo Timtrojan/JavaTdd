@@ -1,4 +1,4 @@
-package tdd;
+package tdd.AirCondition;
 
 public class AirCondition {
     private boolean switchState;

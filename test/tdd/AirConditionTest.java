@@ -1,6 +1,7 @@
 package tdd;
 
 import org.junit.jupiter.api.Test;
+import tdd.AirCondition.AirCondition;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
