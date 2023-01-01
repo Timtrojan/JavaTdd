@@ -14,11 +14,6 @@ public class LargestSmallestPartTwo {
 
         while (number!= 0) {
 
-
-
-
-
-
             if (number > largest) largest = number;
             if (number < smallest) smallest = number;
 
